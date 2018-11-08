@@ -126,7 +126,7 @@ All references point to the master branch of each repository. The project develo
    |[Arch-Flows-End-to-End.png](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch-Flows-End-to-End.png)|Architectural flow sequence diagram.|
    |[Arch-Flows-End_to_End-Overview-Draft.png](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch-Flows-End_to_End-Overview-Draft.png)|Architectural Flows End-to-End Overview (draft).|
    |[Arch-Flows-End_to_End-Overview-Two-APIs.png](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch-Flows-End_to_End-Overview-Two-APIs.png)|Architectural Flows End-To-End Overview Two APIs.|
-   |[Arch-Flows-Transfers-Complete.png](https://github.com/mojaloop/docs/blob/develop/Diagrams/ArchitecturalDiagrams/Arch-Flows-Transfers-Complete.png)|Architectural Flows Transfers Complete.|
+   |[Arch-Flows-Transfers-Complete.png](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch-Flows-Transfers-Complete.png)|Architectural Flows Transfers Complete.|
    |[Arch-Flows-Transfers-golden-path.png](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch-Flows-Transfers-golden-path.png)|Architectural Flows Transfers golden path.|
    |[Arch-Flows.svg](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch-Flows.svg)|Architectural Flows.|
    |[Arch_Flows.svg](https://github.com/mojaloop/docs/blob/master/Diagrams/ArchitecturalDiagrams/Arch_Flows.svg)|Compact Architectural Flows.|
@@ -242,7 +242,7 @@ All references point to the master branch of each repository. The project develo
 
    |Artefact|Artefact Description|
    |---|---|
-   |[README.md](https://github.com/mojaloop/docs/blob/develop/DFSP/PendingTransactions/README.md)|This document covers the following processes within the Pending Transaction process within the L1P service;<ul><li>Get sender details</li><li>Quote source/destination</li><li>Invoice Creation</li><li>Get invoice details</li><li>Invoice payments.</ul></li>|
+   |[README.md](https://github.com/mojaloop/docs/blob/master/DFSP/PendingTransactions/README.md)|This document covers the following processes within the Pending Transaction process within the L1P service;<ul><li>Get sender details</li><li>Quote source/destination</li><li>Invoice Creation</li><li>Get invoice details</li><li>Invoice payments.</ul></li>|
 
    ##### USSD
    Click on |[USSD](https://github.com/mojaloop/docs/tree/master/DFSP/USSD) to navigate to _USSD_ sub directory in the _DFSP_ directory within the _docs_ repository.
@@ -356,7 +356,7 @@ All references point to the master branch of each repository. The project develo
    ###### L1P Performance testing framework.
    |Artefact|Artefact Description|
    |---|---|
-   |[Performance Testing Summary.pdf](https://github.com/mojaloop/docs/blob/develop/Test/performance/Performance%20Testing%20Summary.pdf)|Provides insight into the L1P Performance Testing Framework.|
+   |[Performance Testing Summary.pdf](https://github.com/mojaloop/docs/blob/master/Test/performance/Performance%20Testing%20Summary.pdf)|Provides insight into the L1P Performance Testing Framework.|
 
 ### Helm
   Click on [helm](https://github.com/mojaloop/helm) to navigate to the _helm_ repository.
@@ -404,7 +404,7 @@ All references point to the master branch of each repository. The project develo
   ##### Provides an overview of the project and navigates the reader Starting point for on-boarding and contribution documentation for Mojaloop.
    ##### Contribute
    Click on [contribute](https://github.com/mojaloop/mojaloop/tree/master/contribute) to go to the _contribute_ sub directory in the _mojaloop_ repository.
-   #####Contains helpful artefacts about Mojaloop. Also provides guidelines how to contribute to the project as a community member.|
+   ##### Contains helpful artefacts about Mojaloop. Also provides guidelines how to contribute to the project as a community member.|
    |Artefact|Artefact Description|
    |---|---|
    |[Architecture-Documentation-Guidelines.md](https://github.com/mojaloop/mojaloop/blob/master/contribute/Architecture-Documentation-Guidelines.md)|Guidelines for creating project documentation.|
@@ -452,7 +452,7 @@ All references point to the master branch of each repository. The project develo
    |[LICENSE.md](https://github.com/mojaloop/mojaloop-specification/blob/master/LICENSE.md)|Project Licensing information.|
    |[Logical Data Model.pdf](https://github.com/mojaloop/mojaloop-specification/blob/master/Logical%20Data%20Model.pdf)|Specifies the logical data model used by the Open API for FSP Interoperability:<ul><li>listing the elements used by each service,</li><li>describes the data model in terms of basic elements, simple data types and complex data types.</li></ul>|
    |[PKI Best Practices.pdf](https://github.com/mojaloop/mojaloop-specification/blob/master/PKI%20Best%20Practices.pdf)|Explains the Public Key Infrastructure (PKI) best practices to apply in an Open API for FSP Interoperability deployment.|
-   |[README.md](https://github.com/mojaloop/mojaloop-specification/blob/master/README.md)|Lists and categorize documents contained in this repository.<ul>General Documents<ul><li>[Glossary](https://github.com/mojaloop/mojaloop-specification/tree/master#glossary)</li></ul></ul><ul>Logical Documents<ul><li>[Logical Data Model](https://github.com/mojaloop/mojaloop-specification/tree/master#logical-data-model)</li><li>[Generic Transaction Patterns](https://github.com/mojaloop/mojaloop-specification/tree/develop#generic-transaction-patterns)</li><li>[Use Cases](https://github.com/mojaloop/mojaloop-specification/tree/develop#use-cases)</li></ul></ul><ul>Asynchronous REST Binding Documents<ul><li>[API Definition](https://github.com/mojaloop/mojaloop-specification/tree/develop#api-definition)</li><li>[JSON Binding Rules](https://github.com/mojaloop/mojaloop-specification/tree/develop#json-binding-rules)</li><li>[Scheme Rules](https://github.com/mojaloop/mojaloop-specification/tree/develop#scheme-rules)</li></ul></ul><ul>Data Integrity, Confidentiality, and Non-Repudiation<ul><li>[PKI Best Practices](https://github.com/mojaloop/mojaloop-specification/tree/develop#pki-best-practices)</li><li>[Signature](https://github.com/mojaloop/mojaloop-specification/tree/develop#signature)</li><li>[Encryption](https://github.com/mojaloop/mojaloop-specification/tree/develop#encryption)</li></ul></ul>|
+   |[README.md](https://github.com/mojaloop/mojaloop-specification/blob/master/README.md)|Lists and categorize documents contained in this repository.<ul>General Documents<ul><li>[Glossary](https://github.com/mojaloop/mojaloop-specification/tree/master#glossary)</li></ul></ul><ul>Logical Documents<ul><li>[Logical Data Model](https://github.com/mojaloop/mojaloop-specification/tree/master#logical-data-model)</li><li>[Generic Transaction Patterns](https://github.com/mojaloop/mojaloop-specification/tree/master#generic-transaction-patterns)</li><li>[Use Cases](https://github.com/mojaloop/mojaloop-specification/tree/master#use-cases)</li></ul></ul><ul>Asynchronous REST Binding Documents<ul><li>[API Definition](https://github.com/mojaloop/mojaloop-specification/tree/master#api-definition)</li><li>[JSON Binding Rules](https://github.com/mojaloop/mojaloop-specification/tree/master#json-binding-rules)</li><li>[Scheme Rules](https://github.com/mojaloop/mojaloop-specification/tree/master#scheme-rules)</li></ul></ul><ul>Data Integrity, Confidentiality, and Non-Repudiation<ul><li>[PKI Best Practices](https://github.com/mojaloop/mojaloop-specification/tree/master#pki-best-practices)</li><li>[Signature](https://github.com/mojaloop/mojaloop-specification/tree/master#signature)</li><li>[Encryption](https://github.com/mojaloop/mojaloop-specification/tree/master#encryption)</li></ul></ul>|
    |[Scheme Rules.pdf](https://github.com/mojaloop/mojaloop-specification/blob/master/Scheme%20Rules.pdf)|Defines scheme rules for Open API for FSP Interoperability in three categories:<ul><li>Business Scheme Rules,</li><li>API implementation Scheme Rules,</li><li>Security and Non-Functional Scheme Rules.</li></ul>|
    |[Signature.pdf](https://github.com/mojaloop/mojaloop-specification/blob/master/Signature.pdf)|Details the security methods to be implemented for the Open API for FSP Interoperability to ensure integrity and non-repudiation between the API client and the API server.|
    |[Use Cases.pdf](https://github.com/mojaloop/mojaloop-specification/blob/master/Use%20Cases.pdf)|This document is to define a set of use cases that can be implemented using the API.|
